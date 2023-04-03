@@ -1,0 +1,6 @@
+framework module bluetooth_print {
+  umbrella header "bluetooth_print-umbrella.h"
+
+  export *
+  module * { export * }
+}

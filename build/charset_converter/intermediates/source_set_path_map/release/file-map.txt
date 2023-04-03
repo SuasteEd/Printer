@@ -1,0 +1,12 @@
+pl.pr0gramista.charset_converter-jetified-window-java-1.0.0-beta04-0 /Users/quemari/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+pl.pr0gramista.charset_converter-core-1.6.0-1 /Users/quemari/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+pl.pr0gramista.charset_converter-jetified-annotation-experimental-1.1.0-2 /Users/quemari/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+pl.pr0gramista.charset_converter-jetified-window-1.0.0-beta04-3 /Users/quemari/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+pl.pr0gramista.charset_converter-main-4 /Users/quemari/.pub-cache/hosted/pub.dev/charset_converter-2.1.1/android/src/main/res
+pl.pr0gramista.charset_converter-release-5 /Users/quemari/.pub-cache/hosted/pub.dev/charset_converter-2.1.1/android/src/release/res
+pl.pr0gramista.charset_converter-pngs-6 /Users/quemari/Desktop/printer/build/charset_converter/generated/res/pngs/release
+pl.pr0gramista.charset_converter-resValues-7 /Users/quemari/Desktop/printer/build/charset_converter/generated/res/resValues/release
+pl.pr0gramista.charset_converter-rs-8 /Users/quemari/Desktop/printer/build/charset_converter/generated/res/rs/release
+pl.pr0gramista.charset_converter-mergeReleaseResources-9 /Users/quemari/Desktop/printer/build/charset_converter/intermediates/incremental/release/mergeReleaseResources/merged.dir
+pl.pr0gramista.charset_converter-mergeReleaseResources-10 /Users/quemari/Desktop/printer/build/charset_converter/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+pl.pr0gramista.charset_converter-merged_res-11 /Users/quemari/Desktop/printer/build/charset_converter/intermediates/merged_res/release

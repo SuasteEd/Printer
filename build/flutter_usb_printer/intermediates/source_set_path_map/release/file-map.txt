@@ -1,0 +1,12 @@
+app.mylekha.client.flutter_usb_printer-jetified-window-java-1.0.0-beta04-0 /Users/quemari/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+app.mylekha.client.flutter_usb_printer-core-1.6.0-1 /Users/quemari/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+app.mylekha.client.flutter_usb_printer-jetified-annotation-experimental-1.1.0-2 /Users/quemari/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+app.mylekha.client.flutter_usb_printer-jetified-window-1.0.0-beta04-3 /Users/quemari/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+app.mylekha.client.flutter_usb_printer-main-4 /Users/quemari/.pub-cache/hosted/pub.dev/flutter_usb_printer-0.1.0+1/android/src/main/res
+app.mylekha.client.flutter_usb_printer-release-5 /Users/quemari/.pub-cache/hosted/pub.dev/flutter_usb_printer-0.1.0+1/android/src/release/res
+app.mylekha.client.flutter_usb_printer-pngs-6 /Users/quemari/Desktop/printer/build/flutter_usb_printer/generated/res/pngs/release
+app.mylekha.client.flutter_usb_printer-resValues-7 /Users/quemari/Desktop/printer/build/flutter_usb_printer/generated/res/resValues/release
+app.mylekha.client.flutter_usb_printer-rs-8 /Users/quemari/Desktop/printer/build/flutter_usb_printer/generated/res/rs/release
+app.mylekha.client.flutter_usb_printer-mergeReleaseResources-9 /Users/quemari/Desktop/printer/build/flutter_usb_printer/intermediates/incremental/release/mergeReleaseResources/merged.dir
+app.mylekha.client.flutter_usb_printer-mergeReleaseResources-10 /Users/quemari/Desktop/printer/build/flutter_usb_printer/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+app.mylekha.client.flutter_usb_printer-merged_res-11 /Users/quemari/Desktop/printer/build/flutter_usb_printer/intermediates/merged_res/release
